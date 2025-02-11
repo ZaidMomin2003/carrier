@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="http://localhost:3000/pricing">
+          <Link href="https://codejutsu-gilt.vercel.app/pricing">
             <Button size="lg" variant="outline" className="px-8">
               Pricing💸
             </Button>
